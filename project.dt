@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT3H12M37.656716S" SolutionTotalViewTime="PT3H11M57.9755141S" SolutionTotalDebugTime="PT10M46.6179271S">
+  <FileVersion>
+    <Major>1</Major>
+    <Minor>0</Minor>
+  </FileVersion>
+  <SolutionFolder>C:\Users\PC\Desktop\asufe\cpp\project</SolutionFolder>
+  <SolutionCreattionDate>2022-05-10T23:28:31.8303891+02:00</SolutionCreattionDate>
+  <ProjectsCreatedDateList>
+    <ProjectCreated>
+      <ProjectName>C:\Users\PC\Desktop\asufe\cpp\project\project.vcxproj</ProjectName>
+      <CreatedDate>2022-05-10T23:28:26.967156+02:00</CreatedDate>
+    </ProjectCreated>
+  </ProjectsCreatedDateList>
+  <SessionTimeList />
+  <LastSessionTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT11.9774128S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\PC\Desktop\asufe\cpp\project\project.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\PC\Desktop\asufe\cpp\project\project.vcxproj</ProjectName>
+      <CreatedDate>2022-05-19T03:18:04.1860753+02:00</CreatedDate>
+      <ViewedBy>PC</ViewedBy>
+    </DevTrackerDataItem>
+  </LastSessionTimeList>
+  <TotalTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT10M46.6179271S" EditActiveTime="PT11M42.9455596S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>3</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2022-05-11T04:05:14.5665578+02:00</CreatedDate>
+      <ViewedBy>PC</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3H11M57.9755141S" EditActiveTime="PT3H12M37.656716S">
+      <ModifiedDate>2022-05-17T01:40:51.5177455+02:00</ModifiedDate>
+      <ModifiedBy>PC</ModifiedBy>
+      <EditedCount>5</EditedCount>
+      <ViewedCount>12</ViewedCount>
+      <Item>C:\Users\PC\Desktop\asufe\cpp\project\project.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\PC\Desktop\asufe\cpp\project\project.vcxproj</ProjectName>
+      <CreatedDate>2022-05-10T23:28:31.8573966+02:00</CreatedDate>
+      <ViewedBy>PC</ViewedBy>
+    </DevTrackerDataItem>
+  </TotalTimeList>
+  <HistoryTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT11.9774128S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\PC\Desktop\asufe\cpp\project\project.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\PC\Desktop\asufe\cpp\project\project.vcxproj</ProjectName>
+      <CreatedDate>2022-05-19T03:18:04.1860753+02:00</CreatedDate>
+      <ViewedBy>PC</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4M19.7454422S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\PC\Desktop\asufe\cpp\project\project.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\PC\Desktop\asufe\cpp\project\project.vcxproj</ProjectName>
+      <CreatedDate>2022-05-19T02:16:10.4304834+02:00</CreatedDate>
+      <ViewedBy>PC</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT2M5.3264496S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\PC\Desktop\asufe\cpp\project\project.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\PC\Desktop\asufe\cpp\project\project.vcxproj</ProjectName>
+      <CreatedDate>2022-05-18T01:06:47.5401273+02:00</CreatedDate>
+      <ViewedBy>PC</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M2.8252639S" EditActiveTime="PT5M51.1005861S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2022-05-16T17:31:14.2305269+02:00</CreatedDate>
+      <ViewedBy>PC</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1H54.7874654S" EditActiveTime="PT48M41.3729124S">
+      <ModifiedDate>2022-05-17T01:40:51.5177455+02:00</ModifiedDate>
+      <ModifiedBy>PC</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\PC\Desktop\asufe\cpp\project\project.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\PC\Desktop\asufe\cpp\project\project.vcxproj</ProjectName>
+      <CreatedDate>2022-05-16T17:02:04.1319267+02:00</CreatedDate>
+      <ViewedBy>PC</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT27.5000496S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\PC\Desktop\asufe\cpp\project\project.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\PC\Desktop\asufe\cpp\project\project.vcxproj</ProjectName>
+      <CreatedDate>2022-05-16T13:14:08.3066821+02:00</CreatedDate>
+      <ViewedBy>PC</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4.6956733S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\PC\Desktop\asufe\cpp\project\project.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\PC\Desktop\asufe\cpp\project\project.vcxproj</ProjectName>
+      <CreatedDate>2022-05-15T00:10:59.3249622+02:00</CreatedDate>
+      <ViewedBy>PC</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT16M32.0067845S" EditActiveTime="PT28.5018266S">
+      <ModifiedDate>2022-05-13T04:40:51.1293562+02:00</ModifiedDate>
+      <ModifiedBy>PC</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\PC\Desktop\asufe\cpp\project\project.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\PC\Desktop\asufe\cpp\project\project.vcxproj</ProjectName>
+      <CreatedDate>2022-05-13T04:40:14.3278189+02:00</CreatedDate>
+      <ViewedBy>PC</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5M20.8755849S" EditActiveTime="PT2M19.5411963S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\PC\Desktop\asufe\cpp\project\project.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\PC\Desktop\asufe\cpp\project\project.vcxproj</ProjectName>
+      <CreatedDate>2022-05-13T04:00:07.4224486+02:00</CreatedDate>
+      <ViewedBy>PC</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT3M37.6557118S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2022-05-12T20:40:58.4261394+02:00</CreatedDate>
+      <ViewedBy>PC</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT38M52.0995047S" EditActiveTime="PT6M7.8215015S">
+      <ModifiedDate>2022-05-12T20:40:02.8670641+02:00</ModifiedDate>
+      <ModifiedBy>PC</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\PC\Desktop\asufe\cpp\project\project.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\PC\Desktop\asufe\cpp\project\project.vcxproj</ProjectName>
+      <CreatedDate>2022-05-12T17:49:37.5716613+02:00</CreatedDate>
+      <ViewedBy>PC</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M35.5358975S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\PC\Desktop\asufe\cpp\project\project.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\PC\Desktop\asufe\cpp\project\project.vcxproj</ProjectName>
+      <CreatedDate>2022-05-12T16:09:33.1243804+02:00</CreatedDate>
+      <ViewedBy>PC</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT10M5.1884973S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\PC\Desktop\asufe\cpp\project\project.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\PC\Desktop\asufe\cpp\project\project.vcxproj</ProjectName>
+      <CreatedDate>2022-05-11T16:02:10.6473664+02:00</CreatedDate>
+      <ViewedBy>PC</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT6M6.1369514S" EditActiveTime="PT5M51.8449735S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2022-05-11T04:05:14.5665578+02:00</CreatedDate>
+      <ViewedBy>PC</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT51M28.2417524S" EditActiveTime="PT2H15M0.4192792S">
+      <ModifiedDate>2022-05-11T07:43:46.1598861+02:00</ModifiedDate>
+      <ModifiedBy>PC</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\PC\Desktop\asufe\cpp\project\project.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\PC\Desktop\asufe\cpp\project\project.vcxproj</ProjectName>
+      <CreatedDate>2022-05-10T23:28:31.8573966+02:00</CreatedDate>
+      <ViewedBy>PC</ViewedBy>
+    </DevTrackerDataItem>
+  </HistoryTimeList>
+</DevTrackerData>
